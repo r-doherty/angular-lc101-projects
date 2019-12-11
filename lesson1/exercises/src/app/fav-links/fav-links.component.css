@@ -1,0 +1,10 @@
+h3 {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+
+a {
+    display: block;
+    text-align: center;
+}

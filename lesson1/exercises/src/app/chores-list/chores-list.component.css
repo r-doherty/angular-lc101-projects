@@ -1,13 +1,14 @@
 .chores {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: blue;
 }
 
 h3 {
     text-decoration: underline;
+    font-size: 24px;
 }
 
 ul {
-    font-size: 20px;
+    font-size: 18px;
     font-style: italic;
 }

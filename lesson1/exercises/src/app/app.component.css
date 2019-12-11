@@ -1,0 +1,30 @@
+body { 
+    height: 100%;
+    background-image:
+        linear-gradient(135deg, white 25%, transparent 25%),
+        linear-gradient(225deg, white 25%, transparent 25%),
+        linear-gradient(45deg, white 25%, transparent 25%),
+        linear-gradient(315deg, white 25%, transparent 25%);
+    background-position:
+        25px 0,
+        25px 0,
+        0 0,
+        0 0;
+    background-size: 50px 50px;
+    background-repeat: repeat;
+    background-color: #585858;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.container-fluid { 
+    background-color: white;
+    width: 90%;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.col-3 {
+    border-left: 3px dashed darkgray;
+    border-right: 3px dashed darkgray;
+}

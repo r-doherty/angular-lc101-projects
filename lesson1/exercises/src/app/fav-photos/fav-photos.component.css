@@ -3,16 +3,10 @@ h3 {
 }
 
 img {
-   width: 75%;
+   width: 90%;
    padding: 10px;
 }
 
 .photos {
    text-align: center;
-}
-
-p {
-   font-style: italic;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   font-size: 18px;
 }
