@@ -6,6 +6,11 @@
     color: #3c79b8;
 }
 
+h1 {
+    text-align: center;
+    font-size: 1.75rem;
+}
+
 h3 {
     text-align: center;
 }
@@ -15,4 +20,20 @@ img {
     height: auto;
     display: block;
     margin: auto;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.iceCreamStatus {
+    color: forestgreen;
+}
+
+.iceCreamStatus > p {
+    color: darkgreen;
+    text-decoration: none;
 }
